@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mnOobOzslPKjsxqjVQsyxI/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). E este é o [site](https://explorer-lab-rust-one.vercel.app/) que eu consegui desenvolver graças aos professores da rocket, dá uma olhadinha lá e se divirta! 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mnOobOzslPKjsxqjVQsyxI/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179).
 
 ## :memo: Licença
 
