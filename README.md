@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mnOobOzslPKjsxqjVQsyxI/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). O meu calendário pessoal está disponível nesse [link](https://jul1anaportela.github.io/nlw-copa)! Devo frisar que apenas consegui desenvolver graças aos professores da rocket, dá uma olhadinha lá! 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mnOobOzslPKjsxqjVQsyxI/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). O meu calendário pessoal está disponível nesse [link](https://jul1anaportela.github.io/copa-nlw/)! Devo frisar que apenas consegui desenvolver graças aos professores da rocket, dá uma olhadinha lá! 
 
 ## :memo: Licença
 
